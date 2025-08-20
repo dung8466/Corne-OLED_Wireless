@@ -31,10 +31,10 @@
 
         raise_layer {
             bindings = <
-&kp ESCAPE        &kp NUMBER_1   &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5              &kp NUMBER_6  &kp N7         &kp N8    &kp N9    &kp RIGHT  &kp BSPC
-&kp LEFT_SHIFT    &kp F1         &kp F2        &kp F3        &kp F4        &kp F5              &kp F6        &kp LEFT       &kp F8    &kp F9    &kp F10    &kp F11
-&kp LEFT_CONTROL  &kp SEMICOLON  &trans        &kp DOWN      &kp UP_ARROW  &trans              &kp PAGE_UP   &kp PAGE_DOWN  &kp LBRC  &kp RBRC  &kp PIPE   &kp TILDE
-                                               &kp LGUI      &trans        &kp LEFT_BRACKET    &kp ENTER     &trans         &kp RALT
+&kp ESCAPE        &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5              &kp NUMBER_6  &kp N7         &kp N8    &kp N9    &kp RIGHT  &kp BSPC
+&kp LEFT_SHIFT    &kp F1        &kp F2        &kp F3        &kp F4        &kp F5              &kp F6        &kp LEFT       &kp F8    &kp F9    &kp F10    &kp F11
+&kp LEFT_CONTROL  &kp COLON     &trans        &kp DOWN      &kp UP_ARROW  &trans              &kp PAGE_UP   &kp PAGE_DOWN  &kp LBRC  &kp RBRC  &kp PIPE   &kp TILDE
+                                              &kp LGUI      &trans        &kp LEFT_BRACKET    &kp ENTER     &trans         &kp RALT
             >;
         };
     };
